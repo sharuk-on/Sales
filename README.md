@@ -25,7 +25,7 @@ American Christmas traditions are structured in the way to consume wide range of
 ## Q2: Which city has the highest number of sales?
 Result and Interpretation:
 
-The city with most sales by far is San Francisco, California.
+The city with most sales by far is San Francisco, California. Almost 1/4th of the total sales. 
 
 As to why San Francisco, the city which homes Silicon Valley has the most sales from shops which sells solely tech products is indeed puzzling question. 
 
