@@ -50,9 +50,9 @@ order by total_sales desc;
 /*
 Result and Interpretation:
 December by far the best month of sales
-Why it was best month in terms of sales, it's not hard to answer especially when know from the dataset that all the shops are in America.
-It's the month of Christmas. In terms of sale Christmas is not a day it's an entire month leading up to it. 
-American Christmas traditions are structured in the way to consume everything from wide range of products to entertainment.
+Why it was best month in terms of sales, it's not hard to answer especially when you know from the dataset that all the shops are located in America.
+It's the month of Christmas. In terms of sale Christmas is not just a one day deal, it's an entire month leading up to it. 
+American Christmas traditions are structured in the way to consume wide range of products and entertainment.
 */
 
 -- Q2: Which city has the highest number of sales?
