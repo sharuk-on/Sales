@@ -65,3 +65,6 @@ The reasons being
 
 1. Phones became indispensable part of people's life, so do necessary smartphone accessories like charger and to some extend headphones. This inadvertently makes charger as indispensable as smartphones itself.
 2. They don't usually last as long as smartphone itself, so they will be replaced frequently.
+
+
+<iframe src="https://onedrive.live.com/embed?cid=65AF6804C9ED10C1&resid=65AF6804C9ED10C1%21155&authkey=ABzmuwCHtuCQbsY&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
